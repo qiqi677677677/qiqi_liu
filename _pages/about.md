@@ -11,8 +11,15 @@ I received the B.Eng. degree in industrial engineering from Xi'an University of 
 
 My current research interests include federated data-driven evolutionary optimation, federated learning, federated Bayesian optimization, evolutionary many-objective optimization, and surrogate assisted evolutionary optimization. I am a regular reviewer of IEEE Transactions on Evolutionary Computation, Complex & Intelligent Systems, and Swarm and Evolutionary Computation.
 
+---
+permalink: /
+title: "Representative Publications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-Representative Publications：
 
 1.Liu, Q., Jin, Y., Heiderich, M., Rodemann, T. and Yu, G., An Adaptive Reference Vector-guided Evolutionary Algorithm Using Growing Neural Gas for Many-objective Optimization of Irregular Problem, IEEE Transactions on Cybernetics, 2020, 52(5): 2698-2711. 
 
