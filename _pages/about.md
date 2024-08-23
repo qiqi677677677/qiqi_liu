@@ -13,6 +13,7 @@ My current research interests include federated data-driven evolutionary optimat
 
 
 Representative Publications：
+
 1.Liu, Q., Jin, Y., Heiderich, M., Rodemann, T. and Yu, G., An Adaptive Reference Vector-guided Evolutionary Algorithm Using Growing Neural Gas for Many-objective Optimization of Irregular Problem, IEEE Transactions on Cybernetics, 2020, 52(5): 2698-2711. 
 
 2.Liu, Q., Jin, Y., Heiderich, M. and Rodemann, T., Coordinated Adaptation of Reference Vectors and Scalarizing Functions in Evolutionary Many-objective Optimization, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 53(2): 763-775. 
@@ -44,5 +45,6 @@ Representative Publications：
 15.Luo, J., Dong, Y., Liu, Q., Zhu, Z., Cao, W., Tan, K. and Jin, Y., A New Multitask Joint Learning Framework for Expensive Multi-Objective Optimization Problems, IEEE Transactions on Emerging Topics in Computational Intelligence, 2024, 8(2): 1894-1909. 
 
 16.Shi, R., Luo, J. and Liu, Q., Fast Evolutionary Neural Architecture Search Based on Bayesian Surrogate Model, 2021 IEEE Congress on Evolutionary Computation (CEC), IEEE, 2021: 1217-1224.
+
 
 
